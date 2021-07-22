@@ -52,6 +52,7 @@ async def fale(ctx, *, frase):
     #emb.add_field(name='Campo 2', value='Texto do campo 2', inline=False)
     #emb.add_field(name='Campo 3', value='Texto do campo 3', inline=False)
     print('ok')
+    print('ok2')
     await ctx.send(embed=emb)
 
 #iniciaçização
